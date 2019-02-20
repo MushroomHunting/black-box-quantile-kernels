@@ -1,0 +1,34 @@
+{
+    "D": 1,
+    "M": 300,
+    "MNLL": -0.5876086486473368,
+    "N": 100,
+    "RMSE": 0.10704689702473552,
+    "basicRBF": false,
+    "bestParam": [
+        31.62277660364007,
+        6.000000000000001
+    ],
+    "blrAlpha": 1,
+    "blrBeta": 10,
+    "composition": [
+        "bbq"
+    ],
+    "datasetName": "steps",
+    "gridRes": 31,
+    "interpolator": "HandleCubicSpline",
+    "nlOptAlgo": 25,
+    "nlOptIter": 200,
+    "paramHigh": [
+        2.3,
+        6.0
+    ],
+    "paramLow": [
+        1.5,
+        0.0
+    ],
+    "quantileParametrisation": "InterpSingleSpline",
+    "scoreMetric": "NLML",
+    "searchStrategy": "NLopt",
+    "useARDkernel": false
+}
