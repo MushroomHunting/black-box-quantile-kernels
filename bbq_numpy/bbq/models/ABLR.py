@@ -79,7 +79,6 @@ class ABLR(object):
 
     def predict(self, x_tst, pred_var=True):
         """
-        https://discourse.edwardlib.org/t/how-to-obtain-prediction-results/215
         :param x_tst:
         :param pred_var:        Boolean
         :return:
