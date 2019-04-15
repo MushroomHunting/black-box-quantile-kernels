@@ -25,7 +25,7 @@ from bbq_tf.utils import datasets
 from bbq_tf.utils.metrics import mnll, rmse
 
 datasetName = "pores"
-root_dir = r"/home/ein/bigburrow/mushroomhunting/QUAK/quak/datasets"
+root_dir = r"/home/datasets"
 """
 Generate dataset
 """
